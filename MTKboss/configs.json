@@ -1,0 +1,10 @@
+{
+  "upgrade": true,
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "upgradeClickMultiplier": 1,
+  "upgradeClick": 1,
+  "upgradeEnergy": 1,
+  "upgradeLeague": 1
+}
