@@ -6,5 +6,6 @@
   "upgradeClickMultiplier": 1,
   "upgradeClick": 1,
   "upgradeEnergy": 1,
-  "upgradeLeague": 1
+  "upgradeLeague": 1,
+  "delayEachAccount": [1, 81]
 }
